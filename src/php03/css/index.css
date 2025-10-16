@@ -1,3 +1,23 @@
+.quiz__content {
+    margin: 0 auto;
+    padding: 60px 15px;
+    max-width: 1230px;
+}
+
+.question {
+    margin: 0 auto;
+    padding: 10px 20px;
+    width: 550px;
+    border-radius: 3px;
+    background: #000;
+    text-align: center;
+}
+
+.question__text {
+    color: #fff;
+    text-align: left;
+}
+
 .quiz-form {
     margin: 0 auto;
     padding-top: 20px;
@@ -29,6 +49,7 @@
     width: 100%;
     cursor: pointer;
 }
+
 
 .quiz-form__button {
     width: 550px;
