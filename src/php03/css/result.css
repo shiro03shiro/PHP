@@ -8,11 +8,11 @@
     text-align: center;
 }
 
-.result__text_correct {
+.result__text--correct {
     color: #ff0000;
 }
 
-.result__text_incorrect {
+.result__text--incorrect {
     color: #0000ff;
 }
 

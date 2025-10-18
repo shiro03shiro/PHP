@@ -37,7 +37,7 @@ $result = $option === $code;
 <body>
 <header class="header">
   <div class="header__inner">
-    <a class="header__logo" href="/">
+    <a class="header__logo" href="/php03">
       Status Code Quiz
     </a>
   </div>
